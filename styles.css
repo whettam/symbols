@@ -1,0 +1,20 @@
+.image-sizing{
+    width: 20%;
+}
+
+.bg-lightdark {
+    background-color: rgb(167, 179, 190);
+    border-radius: 50%/80% 50% 30% 70%/40% 30% 70% 60%;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 50%, 80% 100%, 20% 100%, 0% 50%);
+  }
+
+  .bg-lightdark-rounded{
+    background-color: rgb(167, 179, 190);
+    border-radius: 50%;
+    
+  }
+  
+  .nada{
+    text-decoration: line-through;
+    font-family: cursive;
+  }
